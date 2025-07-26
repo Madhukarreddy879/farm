@@ -1,0 +1,27 @@
+# Python backend
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+env/
+*.db
+*.sqlite3
+
+# Node.js frontend
+node_modules/
+.expo/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# IDE/Editor specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
